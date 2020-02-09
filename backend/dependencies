@@ -1,0 +1,4 @@
+face_recognition
+requests
+ pip install falcon 
+ apt-get install gunicorn
